@@ -28,6 +28,6 @@
    <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/gabriela-gama-4436b4174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
-  ![Snake animation](https://github.com/GabGama/GabGama/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GabGama/GabGama/blob/5d6a0cb3b99ccb474f2c9dfcee4a7e397779d9fd/github-contribution-grid-snake.svg)
  
 </div>
