@@ -16,7 +16,10 @@
   <img align="center" alt="Gabriela-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriela-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriela-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabriela-Csharp" height="30" width="40" src="https://tenor.com/view/inside-out-joy-hi-hey-hello-gif-13485451">
+  <img align="center" alt="Gabriela-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+      <img align="right" alt="Gabriela-pic" height="180" style="border-radius:50px;" 
+           src= "https://share-cdn.picrew.me/shareImg/org/202111/338224_u4Qenijp.png"
+           
 </div>
   
   ##
