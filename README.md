@@ -1,5 +1,6 @@
 ### HELLO, WELCOME TO MY PROFILE! 👋
-     i´m Gabriela Gama 💠
+
+     i´m Gabriela Gama, Programmer and Polyglot 💠
  
 - 🌱 I’m currently graduating in Computer Science
 
